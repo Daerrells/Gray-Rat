@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Lesson 10 Hands On</title>
+        <link rel="stylesheet"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+
+    <body>
+
+        <div class="jumbotron">
+            <h1 class="display-4">Daerrell Small!</h1>
+            <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/92822754_10221594917452113_2016754958157742080_n.jpg?_nc_cat=103&_nc_sid=dd9801&_nc_ohc=x7w5RWWG6v4AX99jouy&_nc_ht=scontent-atl3-1.xx&oh=d1fe2651dbc227425d390048332f9d7c&oe=5EB39E5F">
+            <p class="lead">FullStack Developer</p>
+            <hr class="my-4">
+            <h3>Social Media</h3> 
+             <a href="https://www.facebook.com/daerrell.small?__tn__=%2Cd*F*F-R&eid=ARADePWugNG0Ni3VL6BtenwqoXl_uzqJRS6N8rAUIm2QSo-j1cneVzjR1gLZvvQUPyUu3Sh5kLVCefKo&tn-str=*F">
+                <img src="facebookicon.png" class="icon"></a>
+                <a href="https://twitter.com/home">
+                    <img src="twittericon.png"class="icon"></a>
+                    <a href="https://github.com/">
+                        <img src="githubicon.png"class="icon"></a>
+                    </div>
+                    <button onclick="loadRepo()">GetRepos</button>
+
+                    <p id="repo1"></p>
+                    <ul>
+                        <li><h2>Fullstack Skills</h2></li>
+                        <li>Javascript</li>
+                        <li>HTML</li>
+                        <li>Css</li>
+                        <li>Bootstrap</li>
+                    </ul>
+
+       <div class="footer">
+           <p>
+               <img src="gmail.png">
+               <Lordsmall44@Gmail>
+           </p>
+           <p>Lordsmall44@Gmail.com</p>
+</div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" 
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" 
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" 
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" 
+        crossorigin="anonymous"></script>
+
+       
+       
+       
+
+   <script src="script.js"></script>
+    </body>
+</html>
